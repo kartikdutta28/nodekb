@@ -1,1 +1,1 @@
-#My App
+A simple web app using node.js to store articles
