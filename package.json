@@ -1,0 +1,27 @@
+{
+  "name": "nodekb",
+  "version": "1.0.0",
+  "description": "Simple knowledge based app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "KartikeDutta",
+  "license": "ISC",
+  "dependencies": {
+    "ajax": "0.0.4",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "bower": "^1.8.4",
+    "express": "^4.16.4",
+    "express-flash": "0.0.2",
+    "express-messages": "^1.0.1",
+    "express-session": "^1.15.6",
+    "express-validator": "^5.3.1",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.4.2",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "pug": "^2.0.3"
+  }
+}
